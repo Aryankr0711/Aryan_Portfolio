@@ -1,0 +1,10 @@
+Title- SketchAI- Text to Image Generation using Stable Diffusion model
+
+Created a generative AI project that uses the v1.5 Stable Diffusion model to produce high-quality images from text prompts. This
+ involved a deep dive into the model's architecture, including text encoding, the diffusion process, and working within latent space to
+ optimise performance. The project showcases my ability to apply advanced AI models to creative and practical applications.
+
+Key skills-  Stable Diffusion, Python, Text to Image, NLP
+
+Code- https://github.com/Sumit131204/Text-to-image-stable-diffusion
+

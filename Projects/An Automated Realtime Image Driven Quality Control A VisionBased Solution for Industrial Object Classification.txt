@@ -1,0 +1,10 @@
+Title-  An Automated Realtime Image Driven Quality Control: A Vision-Based Solution for Industrial Object Classification
+
+This project, "An Automated Realtime Image Driven Quality Control," is a vision-based solution designed to enhance quality inspection
+ in industrial environments. Using OpenCV and other image processing techniques, the system automatically detects and classifies
+ objects by their shape, size, and colour with a high accuracy of 94.34%. I developed this as a hardware-independent, full-stack web
+ application with a Flask backend and React frontend, which provides a user-friendly and efficient platform for quality control.
+
+Key Expertise- Image Processing, OpenCV, BG Removal, API, Dataset Preparation & Preprocessing, Performance Optimisation & Testing
+
+Code- https://github.com/Sumit131204/Shape-api- 

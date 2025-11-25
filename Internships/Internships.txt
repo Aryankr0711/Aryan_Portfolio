@@ -1,0 +1,32 @@
+1. Indian Oil Corporation Limited  
+Industry Domain- Oil / Gas / Petroleum
+Role- vocational Trainee
+
+ 16 Jun, 2025  - 31 Jul, 2025 
+
+Key Skills: Instrumentation,  sensors
+ 
+About- This internship focuses on industrial instrumentation, with a particular emphasis on the sensors and transducers commonly utilized
+within a plant's instrumentation department. The role involves understanding the principles of operation, calibration, and maintenance of
+these devices as they relate to process control and plant automation.
+
+2. Concept system  
+ Industry Domain-Office Equipment / Automation
+ Role- Software Engineer Intern
+
+ 01 Jun, 2025  - 31 Jul, 2025
+
+ Key Skills: Image Processing, OpenCV,  Background removal, Industrial Automation
+
+ About- Completed by Paid Internship at Concept System with a stipend of 5000/- per month. This internship focuses on industrial automation, with a primary emphasis on image processing and computer vision using the OpenCV
+ library
+
+3. CLOUDNAUTIC 
+Industry Domain- IT Transformation and Cloud Solutions
+Role- Intern
+
+20th June 2024 to 01 August 2024
+
+Worked as a Cloud DevOps Intern, where I learned and applied AWS tools, Docker containerization, and cloud environment setup. Developed an understanding of deployment pipelines and cloud best practices.
+
+Key Skills- AWS Cloud Services, Docker & Containerization, Git & GitHub

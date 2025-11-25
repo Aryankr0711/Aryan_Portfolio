@@ -1,0 +1,8 @@
+Title- Road Accident Risk Prediction Using Supervised ML
+
+Developed a supervised machine learning model to predict road accident probability using multi-factor datasets, enabling early risk identification and improving road safety insights. Implemented data preprocessing, model training, and evaluation to achieve reliable predictive performance.
+
+Key Expertise- Machine Learning, Python, Feature Engineering, Data Processing & Cleaning, Hyperparameter Tuning
+
+Code- https://github.com/Aryankr0711/Road_Accident_Prediction.git
+Live- https://road-accident-prediction.onrender.com/

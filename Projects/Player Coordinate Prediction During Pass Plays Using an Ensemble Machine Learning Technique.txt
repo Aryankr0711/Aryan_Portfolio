@@ -1,0 +1,9 @@
+Title- Player Coordinate Prediction During Pass Plays Using an Ensemble Machine Learning Technique
+
+This project predicts the future field positions of football players using tracking data from NFL games. Features such as speed, acceleration, and distance are used to train Boosting models for X and Y coordinates. Model accuracy is evaluated using RMSE, MAE, MSE, and R². metrics. With the Least RMSE of 0.950 for the CatBoost Model. The system provides highly reliable movement forecasts that can support real-time sports analytics and decision-making.
+
+Key-expertise
+Machine Learning & Modelling, Feature Engineering, Model Evaluation & Optimisation, Hyperparameter Tuning, Python
+
+code- https://github.com/RavirajSonar40/nfl-big-data-bowl-2026-prediction.git
+Live- https://nfl-big-data-bowl-2026-prediction.onrender.com/ 
