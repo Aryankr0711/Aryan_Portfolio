@@ -194,10 +194,11 @@ const App = () => {
           </div>
           <div className="resume-viewer">
             <iframe 
-              src="/Aryan Kumar Resume.pdf" 
+              src="/Aryan Kumar Resume.pdf#toolbar=0" 
               width="100%" 
               height="800px"
               title="Aryan Kumar Resume"
+              sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
             >
               <p>Your browser does not support PDFs. <a href="/Aryan Kumar Resume.pdf">Download the PDF</a>.</p>
             </iframe>
