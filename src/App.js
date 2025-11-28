@@ -188,19 +188,19 @@ const App = () => {
         <div className="resume-section">
           <div className="resume-header">
             <h2>My Resume</h2>
-            <a href="/Aryan Kumar Resume.pdf" download className="download-btn">
+            <a href="https://github.com/Aryankr0711/Aryan_Portfolio/raw/master/public/Aryan%20kumar%20Resume.pdf" download className="download-btn">
               <FaDownload /> Download Resume
             </a>
           </div>
           <div className="resume-viewer">
             <iframe 
-              src={`https://docs.google.com/viewer?url=${encodeURIComponent(window.location.origin + '/Aryan Kumar Resume.pdf')}&embedded=true`}
+              src="https://docs.google.com/viewer?url=https://github.com/Aryankr0711/Aryan_Portfolio/raw/master/public/Aryan%2520kumar%2520Resume.pdf&embedded=true"
               width="100%" 
               height="800px"
               title="Aryan Kumar Resume"
               frameBorder="0"
             >
-              <p>Loading PDF... <a href="/Aryan Kumar Resume.pdf" target="_blank">Click here if it doesn't load</a>.</p>
+              <p>Loading PDF... <a href="https://github.com/Aryankr0711/Aryan_Portfolio/raw/master/public/Aryan%20kumar%20Resume.pdf" target="_blank">Click here to view PDF</a>.</p>
             </iframe>
           </div>
         </div>
