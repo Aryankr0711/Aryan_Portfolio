@@ -1,0 +1,49 @@
+Python
+
+Scikit-learn
+
+OpenCV
+
+Flask
+
+React
+
+MATLAB
+
+Simulink
+
+Simscape
+
+CatBoost
+
+XGBoost
+
+Git
+
+GitHub
+
+Render
+
+Streamlit
+
+NPTEL
+
+Cisco Networking Academy
+
+MathWorks
+
+CPP
+
+Scikit-Learn
+
+XGBoost
+
+CatBoost
+
+LightGBM
+
+Ensemble Models
+
+Feature Engineering
+
+Hyperparameter Tuning

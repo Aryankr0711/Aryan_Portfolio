@@ -1,0 +1,36 @@
+1. HTML Essentials – Cisco Networking Academy
+
+Learned the fundamentals of structuring web pages using HTML. Gained hands-on experience with semantic tags, forms, links, and multimedia elements for building clean web layouts.
+
+ 2.CSS Essentials – Cisco Networking Academy
+
+Covered core CSS concepts including layouts, flexbox, styling, responsiveness, and animations. Learned to design visually appealing and responsive web interfaces.
+
+ 3.PCAP – Programming Essentials in Python
+
+Built strong fundamentals of Python programming including loops, functions, data structures, and object-oriented concepts. Developed problem-solving skills using real coding exercises.
+
+4. Simscape Onramp – MathWorks
+
+Learned the fundamentals of physical system modeling using Simscape. Gained hands-on experience in simulating mechanical, electrical, and multi-domain systems using real-world components.
+
+
+5.Simulink Onramp – MathWorks
+
+Introduced to model-based design using Simulink. Learned to build, simulate, and analyze dynamic system models using block diagrams.
+
+6.Control Design Onramp with Simulink – MathWorks
+
+Learned the basics of control system modeling and controller design using Simulink. Gained practical skills in system response analysis and tuning.
+
+7.Simulink Fundamentals – MathWorks
+
+Developed deeper understanding of Simulink tools for system modeling, simulation, and signal analysis. Focused on building real-world engineering system models.
+
+ 8.Cyber Security and Privacy – NPTEL (Elite)
+
+Studied core concepts of cybersecurity including cryptography, network security, malware, and data privacy. Learned how to protect systems from digital threats.
+
+9 Sensors and Actuators – NPTEL (Elite)
+
+Learned the working principles of sensors and actuators used in automation and embedded systems. Covered real-world applications in control and IoT systems.
