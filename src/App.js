@@ -193,20 +193,15 @@ const App = () => {
             </a>
           </div>
           <div className="resume-viewer">
-            <object 
-              data="/Aryan Kumar Resume.pdf" 
-              type="application/pdf"
+            <iframe 
+              src={`https://docs.google.com/viewer?url=${encodeURIComponent(window.location.origin + '/Aryan Kumar Resume.pdf')}&embedded=true`}
               width="100%" 
               height="800px"
+              title="Aryan Kumar Resume"
+              frameBorder="0"
             >
-              <embed 
-                src="/Aryan Kumar Resume.pdf" 
-                type="application/pdf" 
-                width="100%" 
-                height="800px"
-              />
-              <p>Your browser does not support PDFs. <a href="/Aryan Kumar Resume.pdf" target="_blank">View PDF</a>.</p>
-            </object>
+              <p>Loading PDF... <a href="/Aryan Kumar Resume.pdf" target="_blank">Click here if it doesn't load</a>.</p>
+            </iframe>
           </div>
         </div>
         )}
